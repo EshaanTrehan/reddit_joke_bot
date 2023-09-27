@@ -41,3 +41,4 @@ Introducing the **Reddit Joke Bot** — a delightful Python-based bot designed t
 2. Post a comment containing the word "Chuck" in the 'ChuckNorrisJokes' subreddit.
 3. Await the bot's joke-filled reply.
 4. Verify that the bot's response aligns with the functionality described.
+5. 
